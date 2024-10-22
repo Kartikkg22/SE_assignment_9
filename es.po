@@ -1,0 +1,22 @@
+# Spanish translations for SE_assignment package.
+# Copyright (C) 2024 THE SE_assignment'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the SE_assignment package.
+# U-DESKTOP-A39VS9T\DELL <DELL@desktop-a39vs9t>, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: SE_assignment 9\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-10-22 21:39+0530\n"
+"PO-Revision-Date: 2024-10-22 21:44+0530\n"
+"Last-Translator: U-DESKTOP-A39VS9T\\DELL <k280021gupta@gmail.com>\n"
+"Language-Team: Spanish\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ass_9.py:1
+msgid "Hello World!!"
+msgstr ""
